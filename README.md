@@ -1,3 +1,28 @@
+
+## Package I use!
+1. React-bootstrap
+2. Axios
+3. React-bootstrap-caruosel
+4. React-rating-stars-component
+5. React-router-dom
+6. React-player
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
